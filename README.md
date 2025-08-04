@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hey, I'm Gokul Venkatraman
 
-<!--
-**Gokuldev23/Gokuldev23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Frontend Developer** who codes like a fullstack engineer and thinks like a founder.  
+Currently building apps that ship fast, scale well, and solve real-world problems — from rural social networks to trading journals.
 
-Here are some ideas to get you started:
+### 💻 What I Work With
+- **Frontend:** SvelteKit, React.js, Next.js 15 (App Router + RSC), TailwindCSS, Capacitor
+- **Backend:** Node.js (Express), PostgreSQL, Raw SQL, Prisma (used, prefer raw)
+- **DevOps:** GitHub Actions, Vercel, Netlify, Render, Railway
+- **Mobile:** React Native, PWA, Capacitor
+- **Tools I Respect:** TypeScript, Git, Docker (learning), Vitest, Playwright
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Projects I'm Proud Of
+
+- 🔥 **[Gramlok](https://gramlok.in)**  
+  Social media for Indian villages — supports 17 languages, zero platform fee marketplace, built with SvelteKit + Capacitor (Android/iOS)
+
+- 📈 **NexTrade (WIP)**  
+  Personal trading journal to log, filter, and analyze trades with charts, win rates, and monthly grouping.  
+  Stack: Next.js 15 + PostgreSQL + Tailwind + raw SQL (no ORM)
+
+- 🎬 **Movie Search App (WIP)**  
+  Fullstack app with third-party API, search, wishlist, movie details, and session auth — built for performance with RSC and streaming.
+
+---
+
+### 📈 Goals
+- 💼 Become financially independent and retire from IT early
+- 📊 Trade full-time and help friends/family achieve financial freedom
+- 🧠 Master backend, database, and system design to level up as a fullstack dev
+
+---
+
+### 🧠 What I'm Learning
+- ✅ SQL (PostgreSQL) — the raw way, no ORM training wheels
+- ✅ Backend patterns with Node.js + Express
+- 🔜 Kubernetes, Docker, advanced CI/CD
+
+---
+
+### 📬 Let’s Connect
+- **Twitter:** [@venkigokul](https://twitter.com/venkigokul)
+- **LinkedIn:** [linkedin.com/in/gokulvenkatraman](https://linkedin.com/in/gokulvenkatraman)
+- **Website (soon):** Coming soon...
+
+---
+
+### 🧠 Philosophy
+> "Don’t chase frameworks — chase understanding. Build like an engineer. Ship like a startup."
+
+Thanks for stopping by! ⭐ Star something before you leave 😄
