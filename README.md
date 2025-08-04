@@ -27,7 +27,7 @@ Currently building apps that ship fast, scale well, and solve real-world problem
 ---
 
 ### 📈 Goals
-- 💼 Become financially independent and retire from IT early
+- 💼 Code , Trade , Eat , Sleep ,Repeat 
 - 📊 Trade full-time and help friends/family achieve financial freedom
 - 🧠 Master backend, database, and system design to level up as a fullstack dev
 
@@ -41,9 +41,9 @@ Currently building apps that ship fast, scale well, and solve real-world problem
 ---
 
 ### 📬 Let’s Connect
-- **Twitter:** [@venkigokul](https://twitter.com/venkigokul)
-- **LinkedIn:** [linkedin.com/in/gokulvenkatraman](https://linkedin.com/in/gokulvenkatraman)
-- **Website (soon):** Coming soon...
+- **Twitter:** [@venkigokul](https://twitter.com/gokularise)
+- **LinkedIn:** [linkedin.com/in/gokulvenkatraman](https://linkedin.com/in/gokul-venkatraman-dev)
+- **Website:**  [portfoilo.gokuldev](https://portfolio-gokuldev.netlify.app/)
 
 ---
 
