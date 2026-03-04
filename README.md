@@ -14,9 +14,6 @@ Currently building apps that ship fast, scale well, and solve real-world problem
 
 ### 🛠 Projects I'm Proud Of
 
-- 🔥 **[Gramlok](https://gramlok.in)**  
-  Social media for Indian villages — supports 17 languages, zero platform fee marketplace, built with SvelteKit + Capacitor (Android/iOS)
-
 - 📈 **[NexTrade](https://nxt-trade.vercel.app)**  
   Personal trading journal to log, filter, and analyze trades with charts, win rates, and monthly grouping.  
   Stack: Next.js 15 + PostgreSQL + Tailwind + raw SQL (no ORM)
