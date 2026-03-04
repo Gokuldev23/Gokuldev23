@@ -17,11 +17,14 @@ Currently building apps that ship fast, scale well, and solve real-world problem
 - 🔥 **[Gramlok](https://gramlok.in)**  
   Social media for Indian villages — supports 17 languages, zero platform fee marketplace, built with SvelteKit + Capacitor (Android/iOS)
 
-- 📈 **NexTrade (WIP)**  
+- 📈 **[NexTrade](https://nxt-trade.vercel.app)**  
   Personal trading journal to log, filter, and analyze trades with charts, win rates, and monthly grouping.  
   Stack: Next.js 15 + PostgreSQL + Tailwind + raw SQL (no ORM)
 
-- 🎬 **Movie Search App (WIP)**  
+- 🎬 **CalmBudget(WIP)**  
+  Fullstack app built on top of sveltekit - a personal planning budget , manage risk for a month and use AI for analytics.
+
+- 🎬 **[GVFlicks](https://next-flicks-pi.vercel.app/)**  
   Fullstack app with third-party API, search, wishlist, movie details, and session auth — built for performance with RSC and streaming.
 
 ---
